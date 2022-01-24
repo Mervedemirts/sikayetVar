@@ -35,7 +35,7 @@ http://www.templatemo.com/tm-496-pipeline
 </head>
 
 <body style="background-image: url('img/bg.jpg');">
-    <div class="container-fluid">
+    <div class="container-fluid"> 
         <section id="welcome" class="tm-content-box tm-banner margin-b-10">
             <a href="index.php" class="baslik">
                 <div class="tm-banner-inner" style="background-color:purple;">
